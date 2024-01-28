@@ -70,3 +70,6 @@ Sample response
 ```bash
 {"error":"An error occurred: Error occurred while parsing request parameters"}
 ```
+
+## Tests
+* Run `bundle exec rspec` to run unit tests
